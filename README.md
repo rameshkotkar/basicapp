@@ -49,6 +49,9 @@ php composer.phar global require "fxp/composer-asset-plugin:~1.1.1"
 php composer.phar create-project --prefer-dist --stability=dev yiisoft/yii2-app-basic basic
 ~~~
 
+If Git install excute command in your server root directory
+git clone https://github.com/rameshkotkar/basicapp.git
+
 
 Now you should be able to access the application through the following URL, assuming `basicapp` is the directory
 directly under the Web root.
