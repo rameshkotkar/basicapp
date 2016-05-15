@@ -83,7 +83,7 @@ Execute ./yii migrate or yii migrate command to update the database and create a
 
         Login details for Administrator:
         
-        username: admin@example.com
+        Username: admin@example.com
         
         Password: admin123
   
