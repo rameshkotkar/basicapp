@@ -46,7 +46,7 @@ You can then install this project template using the following command:
 
 ~~~
 php composer.phar global require "fxp/composer-asset-plugin:~1.1.1"
-php composer.phar create-project --prefer-dist --stability=dev yiisoft/yii2-app-basic basic
+php composer.phar create-project --prefer-dist --stability=dev rameshkotkar/basicapp basicapp
 ~~~
 
 If Git install excute command in your server root directory
